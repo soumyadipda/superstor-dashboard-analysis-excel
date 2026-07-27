@@ -30,7 +30,7 @@ Slicers
 KPI Cards 
 
 ### 6.  Screenshots / Demo
-![Dashboard Screenshot](screenshots/dashboard.png)
+![Dashboard Screenshot](https://github.com/soumyadipda/superstor-dashboard-analysis-excel/blob/main/Screenshot%202026-07-26%20113621.png)
 
 ### 7.  Features / Highlights
    
