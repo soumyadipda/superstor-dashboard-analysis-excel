@@ -8,9 +8,8 @@ This is a beginner-friendly Excel dashboard project built on Superstore sales da
 This project helped me learn how to turn raw data into a clean, interactive dashboard that anyone can understand in a few seconds.
 
 ### 3.	Dataset Used
-File name: Superstore_Raw_Data.xlsx (add your raw Excel file here)
-Description: The dataset contains sales records with details like Order Date, Ship Mode, Segment, Category, Sub-Category, Sales, Profit, and Quantity.
-👉 [Add link/path to your raw data file here]
+
+👉- <a href="https://github.com/ritikbh193/Data-Analysis-Dashboard/blob/main/Vrinda%20Data%20Analysis2.xlsx">Dataset</a>
 
 ### 4.Process
 Here is how I built this dashboard step by step:
