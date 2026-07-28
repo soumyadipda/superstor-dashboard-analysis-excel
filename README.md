@@ -1,4 +1,4 @@
-# superstor-dashboard-analysis-excel
+# 🧾Superstor Performance Analysis - Profit & Sales & Quantity
 ![Excel](https://img.shields.io/badge/Tool-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Level](https://img.shields.io/badge/Level-Beginner-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
